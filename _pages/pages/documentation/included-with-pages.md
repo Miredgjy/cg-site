@@ -9,7 +9,7 @@ sidenav: pages-documentation
 
 * An automatic deployment mechanism for static site assets and [supported site engines]({{site.baseurl}}/pages/documentation/supported-site-engines).
 * Web-based configuration and access to preview builds.
-* Premade templates for your sites, in addition to the many sites you can copy in creating your site. All templates now have Netlify CMS support built in, allowing content creators to make site changes without requiring extensive html, CSS, or YAML experience.
+* Premade templates for your sites, in addition to the many sites you can copy in creating your site. All templates now have Decap CMS support built in, allowing content creators to make site changes without requiring extensive html, CSS, or YAML experience.
 * Automatically adds additional request headers to improve site security.
   * `Strict-Transport-Security max-age=31536000; preload;`
   * `X-Frame-Options "SAMEORIGIN";`
